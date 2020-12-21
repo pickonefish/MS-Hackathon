@@ -7,3 +7,5 @@ numba==0.48
 tqdm
 requests
 matplotlib
+pymongo==3.11.2
+azure-storage-blob==2.1.0
